@@ -1,0 +1,1 @@
+This is a simple calculator written in Javascript. It performs basic operations like addition, subtraction, multiplication and division. 
